@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ananyateklu
-- 🕵 I am a freelance Web developer 
-- 🧐 I am looking for full time Software Engineering and Full-stack development jobs
+- 🕵 I am a recent Computer Science graduate
 - 🌱 I’m currently learning .NET, C#
 - 📫 How to reach me ananyateklu.online
 
