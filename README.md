@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ananyateklu
 - 🕵 I am a recent Computer Science graduate
-- 🌱 I’m currently learning .NET, C#
 - 📫 How to reach me ananyateklu.online
 
 <!---
