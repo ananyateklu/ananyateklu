@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananyateklu
 - 🕵 I am a recent Computer Science graduate
-- 📫 How to reach me ananyateklu.online
+- 📫 How to reach me www.linkedin.com/in/ananyateklu
 
 <!---
 ananyateklu/ananyateklu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
