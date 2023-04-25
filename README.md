@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ananyateklu
-- 🕵 I am a recent Computer Science graduate
+- 🕵 I am a Computer Science graduate
 - 📫 How to reach me www.linkedin.com/in/ananyateklu
 
 <!---
