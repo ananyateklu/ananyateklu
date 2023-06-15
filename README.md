@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ananyateklu
-- 🕵 I am a Computer Science graduate
+- 🎓 I am a Computer Science graduate
+- 🕵 I work full time as a Software Developer
 - 📫 How to reach me www.linkedin.com/in/ananyateklu
 
 <!---
